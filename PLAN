@@ -1,0 +1,3 @@
+1. Scaffold Next.js project structure suited for Instagram-like app (pages, components, lib). ✅
+2. Implement core features: authentication UI (mock), feed with posts, profile, likes, comments, image upload placeholders; set up state management and mock data. ✅
+3. Style UI for responsive feel, ensure functionality via local run, then deploy with vercel CLI and verify. ✅
